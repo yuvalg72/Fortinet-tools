@@ -1,6 +1,17 @@
 = Fortinet-related scripts, tools, syntax highlighting files and such
 :toc:
 
+[IMPORTANT]
+====
+*Upstream provenance:* This repository is a GitHub fork of https://github.com/yuriskinfo/Fortinet-tools[yuriskinfo/Fortinet-tools], authored by Yuri Slobodyanyuk.
+
+*Local purpose:* This account retains the fork as an attributed reference copy. It is not presented as first-party authored work.
+
+*Local modifications and sync state:* Immediately before this provenance-only documentation change, GitHub reported this fork as `0 ahead / 0 behind` relative to upstream `main`, so no substantive local modifications were observed. Re-check the fork comparison before assuming this copy is still synchronized.
+
+*License and attribution:* Upstream content is distributed under the MIT License. The existing `LICENSE` file preserves `Copyright (c) 2023 Yuri Slobodyanyuk`. Upstream stars, releases, authorship, and project achievements belong to the upstream project unless explicitly identified otherwise.
+====
+
 In this repo I collect scripts, automation stitches, various tools I find useful in my work with Fortinet products. 
 Make sure to watch this repository to get notified on updates. Your stars on the repository as a sign that you found it useful are appreciated, thanks.
 
